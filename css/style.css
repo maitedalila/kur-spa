@@ -151,7 +151,7 @@ h3 {
 h4 {
   font-family: 'BonvenoCF', sans-serif !important;
   font-size: 1.5em;
-  letter-spacing: 2px;
+  letter-spacing: 1px;
   text-transform: uppercase;
   color: #FFF;
 }
@@ -275,7 +275,7 @@ a {
 
 .social-link i,
 .social-link img {
-  width: 30px;
+  width: 35px;
   color: #000;
 }
 
