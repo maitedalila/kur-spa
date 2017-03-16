@@ -78,7 +78,8 @@ hr {
     background-repeat: no-repeat;
     text-align: center;
     padding: 4em 0 7em;
-      margin-top: 4.2em;
+    margin-top: 4.2em;
+    margin-bottom: 2em;
 }
 
 
@@ -357,7 +358,7 @@ a {
   height: 20em;
   position: relative;
   box-shadow: 1px 1px 3px rgba(0,0,0,.25);
-  margin-bottom: 1em;
+  margin-bottom: 4em;
 }
 
 
@@ -370,7 +371,7 @@ a {
   color: #0A402B;
   text-align: center;
   font-size: 1.5em;
-  margin-top: 2em;
+  margin-top: 1.1em;
 }
 
 .service p {
@@ -379,7 +380,7 @@ a {
   text-align: center;
   font-size: 1em;
   font-weight: 100;
-  line-height: 2em;
+  line-height: 1.5em;
   margin-top: 1em;
   padding: 0 1em;
 }
