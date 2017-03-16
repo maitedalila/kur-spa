@@ -52,6 +52,12 @@ hr {
   width: 4em;
   float: left;
 }
+
+.hero-logo{
+   width: 20em;
+  float: center;
+
+}
  
 .tagline{
     background: url("../images/hero.gif");
@@ -59,7 +65,7 @@ hr {
     background-position: center 5%;
     background-repeat: no-repeat;
     text-align: center;
-    padding: 18em 0 11em;
+    padding: 15em 0 11em;
 }
 
  
@@ -118,7 +124,7 @@ h2 {
 
 h2.dark {
   font-family: 'BonvenoCF', sans-serif !important;
-  font-size: 2em;
+  font-size: 1.5em;
   text-transform: uppercase;
   color: #222;
 }
@@ -182,9 +188,9 @@ a {
 
 
 .button {
-    background-color: #eee; 
+    background-color: #6FBFB5; 
     opacity: 20%;
-    color: #000;
+    color: #FFF;
     border-radius: 25px;
     padding: 15px 32px;
     text-align: center;
@@ -198,12 +204,12 @@ a {
 }
 
 .button.btn-header {
-  background-color: #FFFFFF;
-  color: #A1BECC;
+  background-color: ##6FBFB5;
+  color: #FFF;
 }
 
 .button:hover {
-  background-color: #A1BECC;
+  background-color: #A7E0D7;
   color: #FFF;
 }
 
@@ -238,7 +244,7 @@ a {
 
 
 #social-media {
-  background: #BEE2F2;
+  background: #A7E0D7;
   color: #222;
   text-align: left;
   padding: 1em 2em;  
@@ -281,7 +287,7 @@ a {
 
 
 #company-logo {
-  background: #BEE2F2;
+  background: #A7E0D7;
   color: #FFF;
   text-align: center;
   padding: 1.2em 2em;  
@@ -452,7 +458,7 @@ a {
 }
 
 footer{
-  background: #96B5C4;
+  background: #6FBFB5;
   text-align: center;
 
 }
