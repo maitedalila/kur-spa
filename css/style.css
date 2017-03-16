@@ -168,10 +168,10 @@ p {
 .p-black {
   font-family: 'Open Sans', sans-serif !important;
   color: #222;
-  font-size: 1.5em;
+  font-size: 1.2em;
   font-weight: 100;
   line-height: 1.5em;
-  max-width: 40em;
+  max-width: 45em;
   margin: auto;
   margin-top: 1em;
 }
