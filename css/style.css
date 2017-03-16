@@ -15,6 +15,7 @@
 }
 
 nav {
+  opacity: .8;
   position: absolute;
   right: 1em;
   height: 2em
@@ -66,16 +67,19 @@ hr {
     background-repeat: no-repeat;
     text-align: center;
     padding: 15em 0 11em;
+
 }
 
  
 .tagline-about{
-    background: url("../images/hero.png");
+    background: url("../images/hero.gif");
     background-size: cover;
-    background-position: center 5%;
+    background-position: center 10%;
     background-repeat: no-repeat;
     text-align: center;
-    padding: 10em 0 7em;
+    padding: 4em 0 7em;
+    margin-bottom: 4em;
+      margin-top: 4.2em;
 }
 
 
